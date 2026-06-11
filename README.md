@@ -1,4 +1,4 @@
-# NCDC Revenue Risk Analytics
+# tapcms-afzalpur-revenue-risk-analytics
 
 ## Project Overview
 Predictive financial and risk analytics for agricultural cooperative infrastructure.
